@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "slayeroverlay",
+    "name": "Slayer Overlay",
+    "description": "Highlights Slayer in Skyblock",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "authorList": ["PirateRj"],
+    "clientSideOnly": true
+  }
+]

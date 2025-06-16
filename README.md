@@ -3,15 +3,13 @@ Mod to Highlight your slayer in Hypixel Skyblock
 
 #How to install
 
-just copy slayer_overlay_mod_1.8.9.jar to your minecraft folder
-
-Press "H" hotkey to enable mod to scan Slayers (Configurable in Game Controls)
-
-/slayerconfig help --- to know all commands 
+    1. just copy slayer_overlay_mod_1.8.9.jar to your minecraft folder
+    2. Press "H" hotkey to enable mod to scan Slayers (Configurable in Game Controls)
+    3. /slayerconfig help --- to know all commands 
 
 #How to build (you dont need to but if you want to!!)
 
- #First of all you need Java8 install to build
+ First of all you need Java8 install to build
  
     1. Download whole source code
     2. In main folder where this readme file is present execute these commands

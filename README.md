@@ -10,7 +10,9 @@ Press "H" hotkey to enable mod to scan Slayers (Configurable in Game Controls)
 /slayerconfig help --- to know all commands 
 
 #How to build (you dont need to but if you want to!!)
+
  #First of all you need Java8 install to build
+ 
     1. Download whole source code
     2. In main folder where this readme file is present execute these commands
     3. ./gradlew setupDecompWorkspace

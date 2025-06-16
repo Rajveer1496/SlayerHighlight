@@ -6,7 +6,6 @@ just copy slayer_overlay_mod_1.8.9.jar to your minecraft folder
 
 Press "H" hotkey to enable mod to scan Slayers (Configurable in Game Controls)
 
-#Commands to configure overlay
 /slayerconfig help --- to know all commands 
 
 #How to build (you dont need to but if you want to!!)

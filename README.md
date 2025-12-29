@@ -1,6 +1,9 @@
 # SlayerHighlight
 Mod to Highlight your slayer in Hypixel Skyblock
 
+<img width="1440" height="831" alt="Image" src="https://github.com/user-attachments/assets/7e56cc28-d520-45a4-88ce-fe0579b541c2" />
+<img width="1440" height="831" alt="Image" src="https://github.com/user-attachments/assets/7c278883-2e65-46a0-a207-88f5138e6723" />
+
 #How to install
 
     1. just copy slayer_overlay_mod_1.8.9.jar to your minecraft folder
